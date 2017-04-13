@@ -1,0 +1,6 @@
+C:\Users\Brett\Desktop\Projects\Misc\TestPassByOutOrRef\TestPassByOutOrRef\bin\Debug\TestPassByOutOrRef.exe.config
+C:\Users\Brett\Desktop\Projects\Misc\TestPassByOutOrRef\TestPassByOutOrRef\bin\Debug\TestPassByOutOrRef.exe
+C:\Users\Brett\Desktop\Projects\Misc\TestPassByOutOrRef\TestPassByOutOrRef\bin\Debug\TestPassByOutOrRef.pdb
+C:\Users\Brett\Desktop\Projects\Misc\TestPassByOutOrRef\TestPassByOutOrRef\obj\Debug\TestPassByOutOrRef.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Projects\Misc\TestPassByOutOrRef\TestPassByOutOrRef\obj\Debug\TestPassByOutOrRef.exe
+C:\Users\Brett\Desktop\Projects\Misc\TestPassByOutOrRef\TestPassByOutOrRef\obj\Debug\TestPassByOutOrRef.pdb
